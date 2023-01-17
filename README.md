@@ -1,8 +1,11 @@
 <div align="center">
-  <h1>Programmers Coding Test 문제 풀이 (JavaScript)</h1>
+  <img width="200px;" src="./images/icon_algorithms.png"/>
 </div>
-
-<div align="center">🎯 하루에 최소 3문제 이상을 푸는 것을 목표로 합니다.</div>
+<h2 align="center">☕️Programmers Coding Test 문제 풀이 (JavaScript)</h2>
+<p align="center">🎯 하루에 최소 3문제 이상을 푸는 것을 목표로 합니다.</p>
+<div align="center">
+    <a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1">🔗 Programmers School 코딩테스트 연습 바로가기</a>
+</div>
 
 <br>
 
