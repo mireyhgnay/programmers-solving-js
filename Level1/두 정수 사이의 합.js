@@ -9,7 +9,7 @@ function solution(a, b) {
 }
 
 // other solution - Math.abs
-function adder(a, b){
+function solution(a, b){
     let result = 0
     return (a + b) * (Math.abs(a - b) + 1) / 2;
 }
