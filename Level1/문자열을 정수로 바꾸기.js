@@ -1,3 +1,3 @@
-function solution(s) {
-    return Number(s);
-}
+const solution = (str) => {
+  return Number(str);
+};
