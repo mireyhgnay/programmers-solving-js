@@ -1,7 +1,5 @@
-function solution(seoul) {
-    let found = seoul.findIndex(element => element === 'Kim');
-    return `김서방은 ${found}에 있다`;
+function solution(array) {
+  // indexOf() : 배열에서 특정 요소의 인덱스 찾기
+  const kimIndex = array.indexOf("Kim");
+  return `김서방은 ${kimIndex}에 있다`;
 }
-
-// find() : 배열의 특정 요소 찾기
-// findIndex() : 배열의 특정 요소의 Index 찾기
