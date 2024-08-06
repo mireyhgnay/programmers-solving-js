@@ -16,7 +16,7 @@
 #### [Daily Algoritm Notion 👉 ](https://hyerimiya.notion.site/Algorithm-a3701ac675f4411a87c03c8322f5e6f7?pvs=4)
 
 - 2024.08.01 ✅
-- 
+- 2024.08.06 ✅
 
 <br />
 <br />
